@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Diary</string>
+    <string name="addTitle">Add Title</string>
+    <string name="addNotes">Add Note</string>
+    <string name="addEntry">ADD NEW ENTRY</string>
+    <string name="done">ADD</string>
+    <string name="addDate">Add Date</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
